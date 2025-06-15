@@ -1,0 +1,58 @@
+<style type ="text/css">
+h1{
+	color:red;
+}
+h2{
+	color:darkgreen;
+}
+.text{
+
+	color: darkblue;
+	font-weight:800;
+	text-transform: uppercase;
+	font size: 30px;
+	text-align: justify;
+}
+p{
+	color: orange;
+	font-weight: 200;
+	text-transform: lowercase;
+	front-size:30px;
+	text-align: left;
+}
+table{
+	width: 100%;
+	height: 200px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+table th{
+	background:darkred;
+	color: white;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+table td{
+	background:hotpink;
+	font-size: 17px;
+	font-weight: 400;
+}
+}
+u1{
+	display: inline;
+}
+</style>
+.header{
+	width: 100%;
+	height:100px;
+	background: #000;
+	position: absolute;
+	top:0;
+	left:0;
+	right:0;
+}
+.logo{
+	width: 100%;
+	height: auto;
+}

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>My Navigation</title>
+<style >
+	.header{
+	width: 100%;
+	height:100px;
+	background: #000;
+	position: absolute;
+	top:0;
+	left:0;
+	right:0;
+	box-shadow: 3px 3px 3px 3px red;
+}
+.header-logo{
+	width: 20%;
+	height: auto;
+	float: left;
+	display: flex;
+
+}
+.logo{
+	width: 82px;
+	height: 70px;
+	border-radius: 123%;
+
+}
+ul{
+	color:white ;
+	display: inline;
+	left: 50px;
+	float: right;
+	margin-bottom: 100px;
+	top: 23px;
+	
+}
+ul li{
+		display: inline-block;
+		font-size: x-large;
+		margin-right: 50px;
+}
+ul li a:hover{
+	color:red ;
+	background:#fff ;
+	padding:10px ;
+	border-radius:10px ;
+}
+	.signin{
+		background:red;
+		padding:20px ;
+		border-radius:20px ;
+		text-decoration: none;
+		color: #000;
+		text-transform:capitalize ;
+		box-shadow: 3px 3px 3px 3px #fff;
+		margin-block: 100px;
+		float: inherit;
+
+	}
+	.signin-section{
+		width:50% ;
+		height:600px ;
+		border:1px solid lightgrey;
+		margin-top:200px ;
+		margin-left:400px ;
+		box-shadow:3px 3px 3px 3px lightgrey ;
+		margin-bottom: 30px;
+		
+	}
+
+	.signin-title{
+		text-align: center;
+		text-transform: uppercase;
+		color: red;
+	}
+.form-control{
+	padding: 30px;
+	margin-top: 30px;
+}
+	
+	label{
+		font-size: 15px;
+		text-transform: capitalize;
+		float: left;
+		margin: 10px;
+	}
+
+	input[type=text]{
+		width: 400px;
+		height: 20px;
+		border-radius: 5px;
+		border: 2px solid black;
+		float: right;
+		margin-bottom: 19px;
+
+	}
+
+	input[type=date]{
+		width: 400px;
+		height: 20px;
+		border-radius: 5px;
+		border: 2px solid black;
+		float: right;
+		margin-bottom: 30px;
+
+	}
+input[type=email]{
+	width: 400px;
+		height: 20px;
+		border-radius: 5px;
+		border: 2px solid black;
+		float: right;
+		margin-bottom: 20px;
+}
+
+input[type=contactnumber]{
+	width: 600px;
+		height: 20px;
+		border-radius: 10px;
+		border: 2px solid #000;
+		float: right;
+
+}
+
+input[type=collegename]{
+	margin-right: 34px;
+	width: 300px;
+		height: 30px;
+		border-radius: 10px;
+		border: 2px solid #000;
+		float: right;
+				}
+
+.submit-button{
+	width: 100%;
+		height: 29px;
+		background: green;
+		text-align: center;
+		border-radius: 10px;
+		border: 0px;
+		color: #fff;
+
+}
+
+.submit-button:hover{
+	background:green;
+}
+
+</style>
+	<link rel="stylesheet" type="text/css" href="assest/css/style.css">
+</head>
+<body>
+<div  class="header">
+	<div class= "header-logo">
+	<img src="C:\Users\dell\Desktop\my project\assest\images\logo\pexels-photo-417074.jpeg" class="logo"></div>
+	<!--Menu Bar-->
+	<ul>
+		<li>
+		<a href="#">Home</a>	
+			</li>
+			<li>
+				<a href="#">About us</a>
+			</li>
+			<li><a href="#">Services</a></li>
+			<li>
+				<a href="#">Our Project</a>
+			</li>
+			<li> <a href="#">Contact us</a></li>
+
+	</ul>
+	<a href="#" class="signin "> sign in/ sign up </a>
+
+
+</div>
+
+
+
+
+
+<!--sign in/sign up form-->
+
+<div class ="signin-section">
+	<h3 class="signin-title">sign up here</h3>
+	
+
+	<div class="form-control">
+		<label>Student name</label>
+		<input type="text" name=""placeholder ="Enter your name" >
+	</div>
+
+		
+		<div class="from-control">
+		<label>college name</label>
+		<input type="text" name="" placeholder = "College name">
+	</div>
+
+
+	<div class="form-control">
+		<label>DOB</label>
+		<input type="date" name="required">
+	</div>
+
+
+	<div class="form-control">
+	<label>Email id</label>
+	<input type="email" name=""placeholder="Enter your email"> </div>
+	
+
+	<div class="form-control">
+		<label>Contact number</label>
+		<input type="text" name=""placeholder="Enter your contact number">
+	</div>
+
+
+	<div class="form-control">
+		<button class="submit button">Submit</button>
+	</div>
+
+
+</div>
+</body>
+</html>

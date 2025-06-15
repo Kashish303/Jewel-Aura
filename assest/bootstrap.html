@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+
+  <body>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Gold</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+
+
+ <!-- Table -->
+   <div class="container mt-5">
+    <table class="table table-bordered table-striped table-hover">
+      <thead>
+        <tr class="table-active">
+          <th>Sr.no</th>
+          <th>Student Name</th>
+          <th>Roll No.</th>
+          <th>Batch No.</th>
+          <th>College Name</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr class="table-primary">
+          <td>1</td>
+          <td>Kashish Soni</td>
+          <td>49</td>
+          <td>B-2</td>
+          <td>SKIT</td>
+          <td>Delete</td>
+        </tr>
+
+         <tr class="table-success">
+          <td>2</td>
+          <td>Rahul Soni</td>
+          <td>50</td>
+          <td>B-2</td>
+          <td>SKIT</td>
+          <td>Delete</td>
+        </tr>
+
+          <tr class="table-danger">
+          <td>3</td>
+          <td>Sachin Soni</td>
+          <td>51</td>
+          <td>B-2</td>
+          <td>SKIT</td>
+          <td>Delete</td>
+        </tr>
+
+         <tr class="table-info" >
+          <td>4</td>
+          <td>Anniruddh Soni</td>
+          <td>52</td>
+          <td>B-2</td>
+          <td>SKIT</td>
+          <td>Delete</td>
+        </tr>
+    </table>
+   </div>
+
+   <!-- Alert -->
+      <div class="alert alert-danger">Closed Info.</div>
+      <div class="alert alert-success alert-dismissible">
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        Your information has been uploaded successfully.
+      </div>
+
+      <button class="btn btn-success btn-md">Submit</button>
+      <button class="btn btn-danger text-success">Reset</button>
+      <a href="#" class="btn btn-info">Click Me</a>
+      <i class="fa fa-globe"></i>
+      
+      <input type="button" name="Me" class="btn btn-warning" value="closed">
+      
+      <button class="btn btn-outline-success">
+       <i class="fa fa-globe"></i> 
+     Information </button>
+      <button class="btn btn-outline-success">
+        <span class="spinner-grow spinner-grow-sm "></span>Find Information
+      </button>
+      <button class="btn btn-danger">
+        <span class="spinner-grow spinner-grow-md"></span>
+        Please Wait
+      </button>
+
+      <div class="group button"></div>
+
+
+
+
+   <div class="container p-5 mt-5 text-black bg-danger">
+     Box-sizing : For more straightforward sizing in CSS, we switch the global box-sizing value from content-box to border-box. This ensures padding does not affect the final computed width of an element, but it can cause problems with some third-party software like Google Maps and Google Custom Search Engine.
+   </div>
+
+   <div class="container-fluid mt-5 bg-info">
+     Reboot : For improved cross-browser rendering, we use Reboot to correct inconsistencies across browsers and devices while providing slightly more opinionated resets to common HTML elements.
+   </div>
+    
+   <!-- Grid -->
+
+   <div class="container">
+    <img src="C:\Users\dell\Desktop\my project\assest\images\slider.jpg" class="rounded-circle mx-auto d-block mt-5" width="250" >
+    <img src="C:\Users\dell\Desktop\my project\assest\images\kashish.jpg" class="img-thumbnail mx-auto d-block mt-5" width="250">
+    <img src="C:\Users\dell\Desktop\my project\assest\images\flower.jpeg" class="img-thumbnail mx-auto d-block mt-5" width="250">
+
+    <div class="row">
+      <div class="col-12 col-sm-6 col-md-4 bg-danger mt-5">
+    
+    Box-sizing : For more straightforward sizing in CSS, we switch the global box-sizing value from content-box to border-box. This ensures padding does not affect the final computed width of an element, but it can cause problems with some third-party software like Google Maps and Google Custom Search Engine
+    </div>
+    <div class="col-12 col-sm-6 col-md-4 bg-info mt-5">
+     
+    Box-sizing : For more straightforward sizing in CSS, we switch the global box-sizing value from content-box to border-box. This ensures padding does not affect the final computed width of an element, but it can cause problems with some third-party software like Google Maps and Google Custom Search Engine
+
+   </div>
+   </div>
+ </div>
+    <div class="container mt-5">
+   <div class="row ">
+      <div class="col-12 col-sm-6 col-md-4 bg-danger">
+    
+    Box-sizing : For more straightforward sizing in CSS, we switch the global box-sizing value from content-box to border-box. This ensures padding does not affect the final computed width of an element, but it can cause problems with some third-party software like Google Maps and Google Custom Search Engine
+    </div>
+    <div class="col-12 col-sm-6 col-md-4 bg-info">
+     
+    Box-sizing : For more straightforward sizing in CSS, we switch the global box-sizing value from content-box to border-box. This ensures padding does not affect the final computed width of an element, but it can cause problems with some third-party software like Google Maps and Google Custom Search Engine </div>
+
+   </div>
+   <!-- Table -->
+   <div class="container mt-5">
+    <table class="table table-bordered table-dark table-hover">
+      <thead>
+        <tr>
+          <th>Sr.no</th>
+          <th>Student Name</th>
+          <th>Roll No.</th>
+          <th>Batch No.</th>
+          <th>College Name</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Kashish Soni</td>
+          <td>49</td>
+          <td>B-2</td>
+          <td>SKIT</td>
+          <td>Delete</td>
+        </tr>
+
+         <tr>
+          <td>2</td>
+          <td>Rahul Soni</td>
+          <td>50</td>
+          <td>B-2</td>
+          <td>SKIT</td>
+          <td>Delete</td>
+        </tr>
+
+          <tr>
+          <td>3</td>
+          <td>Sachin Soni</td>
+          <td>51</td>
+          <td>B-2</td>
+          <td>SKIT</td>
+          <td>Delete</td>
+        </tr>
+
+         <tr>
+          <td>4</td>
+          <td>Anniruddh Soni</td>
+          <td>52</td>
+          <td>B-2</td>
+          <td>SKIT</td>
+          <td>Delete</td>
+        </tr>
+    </table>
+
+
+
+
+
+
+   </div>
+  </body>
+</html>

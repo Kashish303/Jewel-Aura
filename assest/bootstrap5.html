@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+  
+</body>
+</html>
+// document.write jo hai vo display krta hai screen p..
+   whi jo alert hai na vo alert k form me show krta hai upar alag se show hota hai
+
+   	<title>JavaScript</title>
+	<script type="text/javascript"> 
+       document.write('Hello Display');
+       alert('Hello');
+       console.log('Kashish');
+        function add(){
+       let a,b,c;
+       a=10;
+       b=20;
+       c=a+b;
+       alert(c);
+       }
+    </script>
+</head>
+<body>
+<button type="button" onclick="return add()">Click for Add</button>
+</body>
+</html>
+
+
+//// nahi chl rhaa..
+problem double quotes aayengee..
+<script type="text/javascript"> 
+       let a,b,c;
+       a=10;
+       b=20;
+       
+       function add() {
+       	c=a+b;
+       	document.getElementById('result').innerHTML=c;
+       }
+
+       function sub() {
+       	c=a-b;
+       	document.getElementById('result').innerHTML=c;
+       }
+
+       function multi(a,b) {
+       	c=a+b;
+       	if(c=30){
+       	document.getElementById('result').innerHTML="Value is +c";
+       } else{
+       	document.getElementById('result').innerHTML="Sorry value is not correct";
+       }
+      }
+       
+    </script>
+</head>
+<body>
+	<p id="result"></p>
+<button type="button" onclick="return add()">Click for Add</button>
+<button type="button" onclick="return sub()">Click for Sub</button>
+<button  type="button" onclick="return multi(10,20)">Argument Function</button>
+</body>
+</html>
+
+
+/// third..
+answerr...???? DONE
+<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>JavaScript</title>
+	<script type="text/javascript"> 
+       let a,b,c;
+       a=10;
+       b=20;
+       
+       function add() {
+       	c=a+b;
+       	document.getElementById('result').innerHTML=c;
+       }
+
+       function sub() {
+       	c=a-b;
+       	document.getElementById('result').innerHTML=c;
+       }
+
+       function multi(rollnumber,name) {
+       	if(rollnumber == 10001 && name == 'jhon'){
+       	document.getElementById('result').innerHTML="Your result is found";
+       } else if(rollnumber == 10002){
+       	document.getElementById('result').innerHTML="Your result is found";
+       }else if(rollnumber == 10003){
+       	document.getElementById('result').innerHTML="Your result is found";
+      } else{
+      	alert('Record not found please try again');
+      }
+
+
+    }   
+    </script>
+</head>
+<body>
+	<p id="result"></p>
+<button type="button" onclick="return add()">Click for Add</button>
+<button type="button" onclick="return sub()">Click for Sub</button>
+<button  type="button" onclick="return multi(10001,'jhon')">Argument Function</button>
+</body>
+</html>
+
+///
+
+
+

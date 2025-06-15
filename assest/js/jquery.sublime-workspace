@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"fee_",
+				"fee_err"
+			],
+			[
+				"col",
+				"college_err"
+			],
+			[
+				"ro",
+				"roll_err"
+			],
+			[
+				"bt",
+				"btn-info"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"emp",
+				"empid"
+			],
+			[
+				"empi",
+				"empid"
+			],
+			[
+				"fo",
+				"form-group"
+			],
+			[
+				"Emp",
+				"EmpName"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"te",
+				"text-danger"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"he",
+				"Hello"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"hei",
+				"line-height"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ca",
+				"card-group"
+			],
+			[
+				"m",
+				"mt-5"
+			],
+			[
+				"mt",
+				"mt-3"
+			],
+			[
+				"card",
+				"card-group"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"white",
+				"floralwhite"
+			],
+			[
+				"whit",
+				"ghostwhite"
+			],
+			[
+				"light",
+				"lightgoldenrodyellow"
+			],
+			[
+				"ligth",
+				"lightgoldenrodyellow"
+			],
+			[
+				"lighty",
+				"lightgoldenrodyellow"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text-d",
+				"text-decoration-style"
+			],
+			[
+				"text",
+				"text-white"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"navba",
+				"navbar-toggler"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"na",
+				"nav-link"
+			],
+			[
+				"navbar",
+				"navbar-brand"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"j",
+				"justify-content-center"
+			],
+			[
+				"tAb",
+				"table-success"
+			],
+			[
+				"fA",
+				"fa-globe"
+			],
+			[
+				"btn-",
+				"btn-outline-success"
+			],
+			[
+				"bg",
+				"bg-danger"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"Li",
+				"link"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"ligh",
+				"lightgrey"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"x",
+				"x-large"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"yellow",
+				"lightyellow"
+			],
+			[
+				"darkgr",
+				"darkgreen"
+			],
+			[
+				"red",
+				"darkred"
+			],
+			[
+				"gre",
+				"greenyellow"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/project/index.php",
+		"/C/xampp/htdocs/OurProjects/home.php",
+		"/C/xampp/htdocs/OurProjects/index.php",
+		"/C/Users/dell/Desktop/my project/assest/js/jquery.html",
+		"/C/Users/dell/Desktop/my project/assest/style.js",
+		"/C/Users/dell/Desktop/my project/assest/js/form.html",
+		"/C/xampp/htdocs/Our Projects/index.php",
+		"/C/Users/dell/Desktop/my project/assest/javascriptarray.html",
+		"/C/Users/dell/Desktop/my project/assest/javascript-object.html",
+		"/C/Users/dell/Desktop/my project/assest/javascript.html",
+		"/C/Users/dell/Desktop/my project/assest/js/javascriptarray1.html",
+		"/C/Users/dell/Desktop/my project/assest/js/style1.js",
+		"/C/Users/dell/Desktop/my project/assest/css/style.css",
+		"/C/Users/dell/Desktop/my project/assest/index1.html",
+		"/C/Users/dell/Desktop/my project/assest/navigation.html",
+		"/C/Users/dell/Desktop/my project/assest/bootstrap.html",
+		"/C/Users/dell/Desktop/my project/assest/bootstrap5.html",
+		"/C/Users/dell/Desktop/my project/assest/kashish practice1.html",
+		"/C/Users/dell/Desktop/my project/assest/bootstrap2.html",
+		"/C/Users/dell/Desktop/my project/assest/bootstrap4.html",
+		"/C/Users/dell/Desktop/my project/assest/my website.html",
+		"/C/Users/dell/Desktop/my project/assest/index.html",
+		"/C/Users/dell/Desktop/my project/assest/demo.html/hello.html",
+		"/C/Users/dell/Desktop/my project/assest/images/gift design.html",
+		"/C/Users/dell/Desktop/my project/assest/bootstrap3.html",
+		"/C/Users/dell/Desktop/my project/assest/kashish practice.html",
+		"/C/Users/dell/Desktop/my project/assest/style.css",
+		"/C/Users/dell/Desktop/my project/assest/index",
+		"/C/Users/dell/Desktop/my project/assest/style1.css",
+		"/C/Users/dell/Desktop/my project/assest/demo.html/demo2.html"
+	],
+	"find":
+	{
+		"height": 27.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.3333333333
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jquery.sublime-project",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
